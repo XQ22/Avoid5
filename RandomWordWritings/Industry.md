@@ -1,3 +1,5 @@
+# #2 - Industry
+
 Industry is how all of us, as a world, can construct many goods to our gain. Industry is split into four groups: Obtaining stuff, Manufacturing stuff, Trading stuff, and a Fourth industry typically with short caption "R&D".
 
 Obtaining stuff, also known as "primary industry", is an industry focusing on acquiring raw parts, such as wood, rocks, and fruit. Its product can go to manufacturing.
